@@ -2,20 +2,24 @@
 body {
     background-color: #f7efe3;
     color: #38271e;
-    font-family: Arial, sans-serif;
+    font-family: "Trebuchet MS", sans-serif;
     line-height: 1.7;
-    max-width: 850px;
-    margin: 40px auto;
+    max-width: 750px;
+    margin: 35px auto;
     padding: 25px;
 }
 
 h1 {
     color: #704126;
     text-align: center;
+    font-family: "Comic Sans MS", cursive;
+    font-size: 34px;
+    line-height: 1.3;
 }
 
 h2 {
     color: #8b542f;
+    font-family: "Trebuchet MS", sans-serif;
     border-bottom: 2px solid #dfc5a5;
     padding-bottom: 6px;
 }
@@ -31,8 +35,8 @@ li {
 .cookie-photo {
     display: block;
     width: 100%;
-    max-width: 650px;
+    max-width: 350px;
     height: auto;
-    margin: 25px auto;
+    margin: 20px auto;
     border-radius: 12px;
 }
