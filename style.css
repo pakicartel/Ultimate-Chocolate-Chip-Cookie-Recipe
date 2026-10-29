@@ -1,4 +1,38 @@
+
 body {
-    background-color: #d9c3a5;
-    font-family: "Trebuchet MS", sans-serif;
+    background-color: #f7efe3;
+    color: #38271e;
+    font-family: Arial, sans-serif;
+    line-height: 1.7;
+    max-width: 850px;
+    margin: 40px auto;
+    padding: 25px;
+}
+
+h1 {
+    color: #704126;
+    text-align: center;
+}
+
+h2 {
+    color: #8b542f;
+    border-bottom: 2px solid #dfc5a5;
+    padding-bottom: 6px;
+}
+
+ul, ol {
+    padding-left: 30px;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+.cookie-photo {
+    display: block;
+    width: 100%;
+    max-width: 650px;
+    height: auto;
+    margin: 25px auto;
+    border-radius: 12px;
 }
